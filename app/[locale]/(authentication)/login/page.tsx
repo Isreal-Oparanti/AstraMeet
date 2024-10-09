@@ -25,6 +25,7 @@ export default function Login() {
             appleText={t("appleLogin")}
           />
           <Divider /> */}
+          
           <LoginForm
             emailPlaceholder={t("email")}
             passwordPlaceholder={t("loginPassword")}
